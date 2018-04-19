@@ -1,4 +1,4 @@
-package cn.qy.webService.app01;
+package cn.qy.webservice.app01;
 
 import java.io.InputStream;
 import java.io.OutputStream;
